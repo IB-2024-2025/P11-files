@@ -158,10 +158,10 @@ correspondientes a ese material,
 estudie del
 [tutorial de referencia](https://www.learncpp.com/)
 en la asignatura los siguientes apartados:
-* [23.1 Input and output (I/O) streams](https://www.learncpp.com/cpp-tutorial/input-and-output-io-streams/)
-* [23.2 Input with istream](https://www.learncpp.com/cpp-tutorial/input-with-istream/)
-* [23.3 Output with ostream and ios](https://www.learncpp.com/cpp-tutorial/output-with-ostream-and-ios/)
-* [23.6 Basic file I/O](https://www.learncpp.com/cpp-tutorial/basic-file-io/)
+* [28.1 Input and output (I/O) streams](https://www.learncpp.com/cpp-tutorial/input-and-output-io-streams/)
+* [28.2 Input with istream](https://www.learncpp.com/cpp-tutorial/input-with-istream/)
+* [28.3 Output with ostream and ios](https://www.learncpp.com/cpp-tutorial/output-with-ostream-and-ios/)
+* [28.6 Basic file I/O](https://www.learncpp.com/cpp-tutorial/basic-file-io/)
 
 ### Ejercicios
 * Al realizar los ejercicios cree dentro de su repositorio de esta práctica un directorio diferente
