@@ -134,7 +134,7 @@ para instalar la extensión para C/C++ en VSC.
 Se puede comprobar que ya se dispone del compilador `g++` de GNU, que es el que se ha venido utilizando en
 *Informática Básica*.
 
-Siga las instrucciones para crear un subdirectorio con nombre `HelloWorld` en el directorio de la práctica 10
+Siga las instrucciones para crear un subdirectorio con nombre `HelloWorld` en el directorio de la práctica 11
 y edite dentro de ese directorio de la máquina remota el fichero `helloworld.cc` al que se refiere la página
 anterior.
 
