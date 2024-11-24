@@ -70,7 +70,7 @@ restantes de la asignatura.
 
 Para instalar VSC en su instalación Linux particular (no en su máquina virtual, sino en la instalación Linux
 desde la que suele trabajar) siga
-[estas instrucciones](https://code.visualstudio.com/docs/setup/linux)
+[estas instrucciones](https://code.visualstudio.com//setup/linux)
 descargando el paquete `.deb`.
 Una vez haya descargado el paquete, instálelo en su máquina ejecutando:
 ```
@@ -87,7 +87,7 @@ En el comando anterior el punto indica que desea Ud. editar ficheros en el direc
 Una vez arranque el programa, salga del mismo utilizando el menú (*File* -> *Exit*).
 
 Siga a continuación las instrucciones de la página
-[Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
+[Remote Development using SSH](https://code.visualstudio.com//remote/ssh)
 para configurar la edición remota usando VSC.
 
 De los tres pasos que se indican en la página anterior:
@@ -104,10 +104,10 @@ le llevará a una página en la que le indica el comando que ha de teclear en VS
 extensión.
 
 Vuelva de nuevo a la página
-[Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
+[Remote Development using SSH](https://code.visualstudio.com//remote/ssh)
 y del apartado *SSH host setup* realice las instrucciones del paso 3 (opcional).
 Para ello ha de acceder a la página
-[Tips and Tricks](https://code.visualstudio.com/docs/remote/troubleshooting#_improving-security-on-multi-user-servers)
+[Tips and Tricks](https://code.visualstudio.com//remote/troubleshooting#_improving-security-on-multi-user-servers)
 y seguir las instrucciones correspondientes a *Quick start: Using SSH keys*.
 
 Ejecute para ello (sustituyendo la dirección IP por la de su VM):
@@ -124,11 +124,11 @@ muestra la ventana de autentificación de VSC para darle acceso a la máquina vi
 [Este vídeo](https://youtu.be/pAUfwae-eWg) ilustra cómo configurar la edición remota de ficheros alojados en máquinas IaaS-ULL usando VSC.
 
 Una vez instalado en su máquina local, ejecute el Microsoft Visual Studio Code (VSC) y siga
-[estas instrucciones](https://code.visualstudio.com/docs/remote/ssh)
+[estas instrucciones](https://code.visualstudio.com//remote/ssh)
 para configurar la edición remota de ficheros alojados en su máquina virtual.
 
 Siga a continuación las instrucciones de la página
-[C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
+[C/C++ for Visual Studio Code](https://code.visualstudio.com//languages/cpp)
 para instalar la extensión para C/C++ en VSC.
 
 Se puede comprobar que ya se dispone del compilador `g++` de GNU, que es el que se ha venido utilizando en
@@ -151,9 +151,9 @@ correctamente antes de la sesión de evaluación.
 
 ### Material de estudio complementario
 Además de los contenidos revisados en las
-[Transparencias de clase](https://docs.google.com/presentation/d/1k2IyoAsmd60a6EzP96eLuhgISdf9e35nPRPIBb92a3E/edit?usp=sharing)
+[Transparencias de clase](https://docs.google.com/presentation/d/1MvBmwui2ZJJXt-fWItcm_7AwJ0Vc8XyGvC7OIxAbZ7E/edit?usp=drive_link)
 correspondientes al tema de Entrada/Salida así como los
-[Ejemplos de código](https://github.com/IB-2022-2023/IB-class-code-examples/tree/master/Functions)
+[Ejemplos de código](https://github.com/IB-2024-2025/IB-class-code-examples/tree/main/Functions)
 correspondientes a ese material,
 estudie del
 [tutorial de referencia](https://www.learncpp.com/)
